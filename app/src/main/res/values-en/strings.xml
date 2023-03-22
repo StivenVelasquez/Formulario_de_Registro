@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string name="register_form">Registration Form</string>
+    <string name="required_field">Required field</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="rep_password">Repeat Password</string>
+    <string name="Genero">Gender </string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="genre_favorites">favorite genres</string>
+    <string name="action">Action</string>
+    <string name="drama">Drama</string>
+    <string name="comic">Comic</string>
+    <string name="love">Love</string>
+    <string name="dateBirth">Birth Date</string>
+    <string name="city_birth">Place of Birth</string>
+    <string name="DateBirth">Birth Date</string>
+    <string name="Contras_Incorrecta">Passwords are not the same</string>
+    <string name="register">To register</string>
+    <string name="Info">Information entered</string>
+    <string name="datos">Entered Data: </string>
+    <string name="Seleccione" translatable="false">Select a city </string>
+    <string name="No_has_seleccionado" translatable="false">You have not selected any place of birth </string>
+    <string name="Seleccionaste" translatable="false">You selected  </string>
+    <string name="completar_campos">Please complete all fields</string>
+</resources>

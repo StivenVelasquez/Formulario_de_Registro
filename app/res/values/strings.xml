@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formulario de Registro</string>
+    <string name="register_form">Formulario de Registro</string>
+    <string name="required_field">Campo requerido</string>
+    <string name="name">Nombre</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="rep_password">Repetir Contraseña</string>
+    <string name="Genero">Género </string>
+    <string name="female">Femenino</string>
+    <string name="male">Masculino</string>
+    <string name="genre_favorites">Géneros Favoritos</string>
+    <string name="action">Acción</string>
+    <string name="drama">Drama</string>
+    <string name="comic">Humor</string>
+    <string name="love">Amor</string>
+    <string name="dateBirth">Fecha de Nacimiento</string>
+    <string name="city_birth">Lugar de Nacimiento</string>
+    <string name="DateBirth">Fecha de Nacimiento</string>
+    <string name="Contras_Incorrecta">Las contraseñas no son iguales</string>
+    <string name="register">Registrar</string>
+    <string name="Info">Información Ingresada</string>
+    <string name="datos">Datos Ingresados: </string>
+    <string name="Seleccione" translatable="false">Seleccione una ciudad </string>
+    <string name="No_has_seleccionado" translatable="false">No has seleccionado ningún lugar de nacimiento </string>
+    <string name="Seleccionaste" translatable="false">Seleccionaste  </string>
+    <string name="logo">Logo</string>
+    <string name="select_date">seleccionar Fecha</string>
+    <string name="completar_campos">Por favor complete todos los campos</string>
+
+
+</resources>

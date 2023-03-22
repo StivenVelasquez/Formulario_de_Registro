@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formulaire inscription</string>
+    <string name="register_form">Formulaire inscription</string>
+    <string name="required_field">Champs requis</string>
+    <string name="name">Nom</string>
+    <string name="email">Courrier électronique</string>
+    <string name="password">Mot de passe</string>
+    <string name="rep_password">Répéter le mot de passe</string>
+    <string name="Genero">Genre </string>
+    <string name="female">Femme</string>
+    <string name="male">Homme</string>
+    <string name="genre_favorites">Genre préféré</string>
+    <string name="action">Action</string>
+    <string name="drama">Drame</string>
+    <string name="comic">Humour</string>
+    <string name="love">Amour</string>
+    <string name="dateBirth">Date de naissance</string>
+    <string name="city_birth">Lieu de naissance</string>
+    <string name="DateBirth">Date de naissance</string>
+    <string name="Contras_Incorrecta">Les mots de passe ne sont pas les mêmes</string>
+    <string name="register">Enregistrer</string>
+    <string name="Info">Informations saisies</string>
+    <string name="datos">Données saisies : </string>
+    <string name="Seleccione" translatable="false">Sélectionnez une ville</string>
+    <string name="No_has_seleccionado" translatable="false">Vous no avez sélectionné aucun lieu de naissance </string>
+    <string name="Seleccionaste" translatable="false">Tu as sélectionné  </string>
+    <string name="completar_campos">Remplissez tous les champs, sil vous plaît</string>
+</resources>
